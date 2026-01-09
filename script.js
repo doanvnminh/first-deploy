@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://my-first-login-api.onrender.com';
 
 function getInfo() {
     const username = document.getElementById('usernameInput').value;
